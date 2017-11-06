@@ -1,0 +1,13 @@
+#a{
+	border: 3px solid red;
+	width: 400px;
+	margin-left:25px;
+	
+	
+}
+textarea{
+	width:300px;
+	height:250px;
+	border:1px solid green;
+	
+}
